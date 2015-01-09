@@ -1,2 +1,2 @@
 # setbootstrap
-setBootstrap is a collection of free to download Bootstrap themes and templates. 
+setBootstrap is a free collection of Bootstrap themes and templates. 
